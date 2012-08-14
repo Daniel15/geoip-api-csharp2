@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MaxMind.GeoIP</id>
+    <version>2.1.17</version>
+    <title>MaxMind GeoIP</title>
+    <authors>MaxMind Inc</authors>
+    <owners>MaxMind Inc</owners>
+    <description>Determine the country, region, city, latitude, and longitude associated with IP addresses worldwide. Uses the MaxMind GeoIP or GeoLite City or GeoLite Country (free) database which needs to be downloaded separately from http://www.maxmind.com/app/geolite</description>
+    <copyright>Copyright 2012 MaxMind Inc.</copyright>
+    <tags>ip geoip geolocation ip2location iptolocation maxmind</tags>
+  </metadata>
+</package>
